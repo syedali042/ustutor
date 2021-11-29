@@ -1,0 +1,12 @@
+@font-face {
+  font-family:avenirlite;
+  src: url(AvenirLTStd-Black.otf);
+}
+@font-face {
+  font-family: avenirwrite;
+  src: url(AvenirLTStd-Book.otf);
+}
+@font-face {
+  font-family: avenirrewrite;
+  src: url(AvenirLTStd-Roman.otf);
+}
